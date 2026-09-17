@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="90" fill="#2575fc" />
+  <circle cx="70" cy="80" r="12" fill="white" />
+  <circle cx="130" cy="80" r="12" fill="white" />
+  <circle cx="70" cy="80" r="5" fill="black" />
+  <circle cx="130" cy="80" r="5" fill="black" />
+  <path d="M60 130 Q100 160 140 130" stroke="white" stroke-width="6" fill="none" stroke-linecap="round" />
+  <text x="100" y="185" font-size="14" fill="white" text-anchor="middle">nesmysl.exe</text>
+</svg>

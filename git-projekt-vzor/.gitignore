@@ -1,0 +1,21 @@
+# --- Web / Node ---
+node_modules/
+dist/
+build/
+.DS_Store
+
+# --- Python ---
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# --- Editory / IDE ---
+.vscode/
+.idea/
+
+# --- Logy a dočasné soubory ---
+*.log
+*.tmp
+.cache/
